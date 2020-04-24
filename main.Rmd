@@ -1,5 +1,5 @@
 ---
-title: "Rmarkdown"
+title: "Lecture Notes: Rmarkdown"
 author: "Dr. Muhammad Imdad Ullah"
 date: "May 17, 2018"
 output: html_document
