@@ -1,7 +1,5 @@
 # Task 07: Final Report
 
-loganjtravis@gmail.com (Logan Travis)
-
 ## Project Highlights
 
 From course page [Week 6 > Final Report Information > Final Report Instructions](https://www.coursera.org/learn/data-mining-project/supplement/zo7WM/final-report-instructions):
